@@ -1,0 +1,6 @@
+﻿  Arvore.cpp
+  No.cpp
+  Teste.cpp
+  Gerando Código...
+E:\3°SEM\Estrutura de Dados\Arvores\L04E7\L05E7\Teste.cpp(15,1): warning C4326:  tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  L05E7.vcxproj -> E:\3°SEM\Estrutura de Dados\Arvores\L04E7\Debug\L04E7.exe

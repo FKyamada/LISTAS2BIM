@@ -1,0 +1,3 @@
+﻿  Teste.cpp
+c:\users\aluno\desktop\l04q4\l04q4\teste.cpp(16): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  L04Q4.vcxproj -> C:\Users\Aluno\Desktop\L04Q4\Debug\L04Q4.exe
